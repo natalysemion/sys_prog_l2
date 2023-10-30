@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698694724 source:c:\users\nata\documents\програмування\sp_lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
